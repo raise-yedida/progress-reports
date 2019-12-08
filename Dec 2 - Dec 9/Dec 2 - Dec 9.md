@@ -1,5 +1,7 @@
 # Dec 2 - Dec 9 Progress
 
+[Raise an issue.](https://github.com/raise-yedida/defect-prediction-dnn/issues)
+
 ## Reproduction
 
 * Can now reproduce Lin Tan's results on PROMISE data. We have his PROMISE and AST baselines, but not his semantic features (the code to generate those are protected by a patent).
