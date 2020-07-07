@@ -16,6 +16,9 @@
         * the k hyperparameter is lost in the projection and therefore is now redundant
 * Implemented tab domination for [DANCE](https://github.com/yrahul3910/dance)
 * [Baselines for issue close time](https://docs.google.com/spreadsheets/d/1ug-pR1S5Puxq9gun9w5QJBC8OA9I1HrqWdL6r-zoYPU/edit?usp=sharing) (AUC): ran DL and DODGE
+    * Different people use different metrics
+        * DODGE uses d2h and popt20
+        * FFT uses accuracy, precision, recall, d2h, f1-score
 
 ## Todo
 
