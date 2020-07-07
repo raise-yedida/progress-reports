@@ -8,7 +8,7 @@
     * beats DODGE, as in [Excel sheet](https://oitncsu-my.sharepoint.com/:x:/g/personal/ryedida_ncsu_edu/Ed28oa7Y-zVDqogvMIlwmKwB5-XAPSmvdZXx6OQQ5vMBzQ?e=KC9Eyz)
     * loses against [Lin Tan's results](https://www.cs.purdue.edu/homes/lintan/publications/deeplearn-icse16.pdf) (wins in 2/10 datasets on recall)
         * **Q:** unsure if I should run GHOST for precision and compare, same for F1 score
-* Ran modified version of SVM: [results](https://docs.google.com/spreadsheets/d/1aqjnF0hrnykLpAYEXMmrN_zAMaFu495f9ObYjwZ7ZcQ/edit?usp=sharing) | [code](https://github.com/yrahul3910/biased-svm/blob/master/Biased%20SVMs%20with%20weighted%20fuzzy%20oversampling.ipynb) | [theory](https://github.com/yrahul3910/biased-svm/blob/master/theory.pdf)
+* Ran modified version of SVM: [results](https://docs.google.com/spreadsheets/d/1aqjnF0hrnykLpAYEXMmrN_zAMaFu495f9ObYjwZ7ZcQ/edit?usp=sharing) | [code](https://github.com/yrahul3910/biased-svm/blob/master/Biased%20SVMs%20with%20weighted%20fuzzy%20oversampling.pdf) | [theory](https://github.com/yrahul3910/biased-svm/blob/master/theory.pdf)
     * When tuned, beats DODGE in recall,  has only one hyperparameter to tune (therefore tuning is fast), but achieves good precision in 5/10 datasets, and matches DODGE in popt20 in all
         * advantage over DODGE: one single learner with one hyperparameter means runtime << DODGE
     * Also applied kernel: surprisingly, linear kernel works better than rbf; possibly because:
