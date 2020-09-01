@@ -4,7 +4,7 @@
 
 * **DL4SE:**
     * Literature review complete
-    * Heatmap generated
+    * Heatmap generated | [link](https://github.com/raise-yedida/progress-reports/blob/master/2020/Aug%2021%20-%20Sep%204/heatmap.png)
 * **Weighted losses:**
     * Ran non-DL (untuned) with all treatments on issue close time data (56 datasets) | [table](https://www.overleaf.com/9879323264fpnhvbtjhbjx) | [pie charts](https://github.com/yrahul3910/nondl-wfo/blob/master/Pie%20charts%20of%20results%20and%20table%20generation.ipynb) 
     * Ran modified version of GHOST on issue close time data
