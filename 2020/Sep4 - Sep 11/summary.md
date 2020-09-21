@@ -1,6 +1,6 @@
 ### Grayscale heatmap
 
-![grayscale](https://raw.githubusercontent.com/raise-yedida/progress-reports/fff7fbad2ca2069b9b88fc020e01d31c6d7cba6d/2020/Sep4%20-%20Sep%2011/heatmap-total.png) 
+![grayscale](https://raw.githubusercontent.com/raise-yedida/progress-reports/master/2020/Sep4%20-%20Sep%2011/heatmap-total.png) 
 
 ### Heatmap with papers comparing to non-DL
 
